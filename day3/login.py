@@ -4,7 +4,7 @@
 CORRECT_USER = "admin"
 CORRECT_PASS = "root123"
 
-# open ports in system
+# open ports in system 
 open_ports = [22, 80, 443]
 
 attempts = 0
